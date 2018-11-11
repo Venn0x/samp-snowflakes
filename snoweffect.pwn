@@ -4,7 +4,7 @@
 #include <zcmd>
 #include <foreach>
 
-#define MAX_FLAKES		200		//nr maxim de fulgi de zapada care pot fi pe ecranul unui player in acelasi timp
+#define MAX_FLAKES	200		//nr maxim de fulgi de zapada care pot fi pe ecranul unui player in acelasi timp
 #define FLAKES_UPDATE	500		//la cate ms sa se deplaseze fulgii gen
 #define FLAKES_SPEED	10		//cu cate unitati sa se deplaseze fiecare fulg la delay-ul stabilit
 
